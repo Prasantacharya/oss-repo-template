@@ -28,13 +28,19 @@ Discord handle: Shape Shifter#1175
 
 * Open Source Definition
 
-  1. a
+  1. The Open Source Definition are very important criteria, because they ensure that code is not only accessible to view, but easy for people to use, modify and add onto without much if any hinderance on those who tinker with the source. It ensures that not only is the code visible, but that it is possible to build on and improve and evolved into different forms.
 
 * Smart Questions
 
+  2. Two suggestions I had for `How To Answer Questions in a Helpful Way`  
+
+    a. If they are doing something that has multiple steps, it might be helpful to warn them of some things they may see in the future, or where to look in the documentation when it does show up, so they don't have to come asking a few minutes later. For example, if they are trying to compile some code that needs to be done in several steps, and they are stuck on the first few, you could also warn them to be sure that some tool they will use later in the compilation is the latest version.
+
+    b. If there are multiple different solutions to the problem they face and the problem is documented, give them one possible answer before pointing them into the documentation. This is a bit nicer than just sending them to the documentation right away, espically if the documentation is a bit arcane (as they tend to be).
+
 * Free Culture
 
-* Beautiful Code
+  3.
 
 ## 3. Linux
 

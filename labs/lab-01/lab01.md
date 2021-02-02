@@ -25,6 +25,8 @@ Discord message:
 
 ## 3. Linux
 
+![](../../resources/tree.png)
+
 ## 4. Regex
 
 **Regex problems:**

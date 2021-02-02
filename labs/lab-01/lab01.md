@@ -40,7 +40,7 @@ Discord handle: Shape Shifter#1175
 
 * Free Culture
 
-  3.
+  3. There were a few main things I got out of the reading of chapter 3 of Free Culture. The first thing that stuck me was how the RIAA was able to get away with asking for absurd reparations for what had occurred. They asked for billions for something that would in no way be worth that amount when aggregated. The greed of the RIAA was also put on display when they asked for everything that Jesse had in exchange for dropping a suit. Not only that, but the fact that the plaintiffs would not receive any compensation for their trouble exemplifies the inherent imbalance in that situation. The RIAA would not lose anything for filing a false claim, yet the plaintiff would quite literally lose all the money they had. The fact that the RIAA faces no repercussions for doing something like this feels deeply wrong on a moral level. The final thing I got from the reading was how the RIAA was insistent on stopping the chain of progress that had been built up till that point. They wanted an injunction that would prevent him from working on technology, something that he had already shown that he was capable of improving. Not only that but the RIAA went after students that made minimal changes to already existing technology. They sought to stop progress on something that had been shown to be improving and starting to evolve, because it could possibly affect them financially. 
 
 ## 3. Linux
 

@@ -3,9 +3,11 @@
 
 * Latex:
 
-![](../../lab03-latex.png)
+
+![](../../resources/lab03-latex.png)
 
 # Part 2
+project name: the hotbox
 
 * Number of contributors: 9
 

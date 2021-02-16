@@ -3,7 +3,7 @@
 
 * Latex:
 
-![](../../lab03-latex)
+![](../../lab03-latex.png)
 
 # Part 2
 

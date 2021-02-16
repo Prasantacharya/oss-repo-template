@@ -1,4 +1,9 @@
 # Part 1
+![Check wiki](https://github.com/Prasantacharya/oss-repo-template/wiki/ProjectIdea)
+
+* Latex:
+
+![](../../lab03-latex)
 
 # Part 2
 

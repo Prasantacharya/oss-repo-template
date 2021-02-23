@@ -18,9 +18,9 @@
 
 | Project | License Present | License |
 | ------- | ------- | --------- |
-| ALPACA  | yes  | MIT: https://mit-license.org/  |
-| Open Circuits | yes | GPL-3.0: https://www.gnu.org/licenses/gpl-3.0.en.html  |
-| quacs | yes | MIT: https://mit-license.org/  |
+| ![ALPACA](https://github.com/rpi-alpaca/alpaca)  | yes  | MIT: https://mit-license.org/  |
+| ![Open Circuits](https://github.com/opencircuits/opencircuits) | yes | GPL-3.0: https://www.gnu.org/licenses/gpl-3.0.en.html  |
+| ![quacs](https://github.com/quacs/quacs) | yes | MIT: https://mit-license.org/  |
 | ![Willow]() | yes | MIT: https://mit-license.org/ |
 | ![NoTeX](https://github.com/team-notex/notex) | yes | GPL-2.0: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html|
 

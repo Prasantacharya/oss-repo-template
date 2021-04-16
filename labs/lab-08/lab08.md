@@ -74,3 +74,5 @@ volumes:
 ```
 
 ![](../../resources/lab08-part4.png)
+
+![](https://waifu.now.sh/type/endpoint)

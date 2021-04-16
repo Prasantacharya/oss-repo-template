@@ -16,9 +16,11 @@
 
 # Checkpoint 3
 
-![](../../resources/lab09part3a.png)
+2 added words are at the bottom
 
 ![](../../resources/lab09part3b.png)
+
+[dif of the two](lab.diff)
 
 # Checkpoint 4
 
